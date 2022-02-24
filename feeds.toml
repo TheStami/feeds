@@ -1,13 +1,6 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
+[war]
+title = "Waojna Ukraina - Wyborcza"
+url = "https://wyborcza.pl/14,75247,28147397.html"
+entrySelector = ".gazeta_rtc2012_body > ul li"
 titleSelector = "b"
 linkSelector = "b a"
-
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
